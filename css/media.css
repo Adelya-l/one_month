@@ -1,0 +1,163 @@
+@media (max-width: 1199.98px){
+
+}
+@media (max-width: 991.98px){
+    .soft{
+        display: flex;
+        justify-content: center;
+        font-size: 30px;
+    }
+}
+@media  (max-width: 768.98px){
+    .homepage-center{
+        font-size: 35px;
+    }
+    .soft{
+        font-size: 20px;
+    }
+    .col-4{
+        padding: 10px;
+    }
+    .first{
+        padding-bottom: 5px;
+    }
+    .knock{
+        display: block;
+        padding: 0;
+    }
+}
+@media (max-width: 575.98px) {
+    .featured-img{
+        display: flex;
+        flex-direction: column;
+        width: 55%;
+        margin: auto;
+    }
+    .row{
+        flex-direction: column;
+    }
+    .col-4{
+        width: 100%;
+    }
+    .col-6{
+        margin: 20px;
+    }
+    .col-lg-6{
+        margin: 0;
+    }
+    .light-container{
+        margin: 20px;
+    }
+    .row-wrap{
+        display: block;
+    }
+    .list-item a{
+        font-size: 13px;
+    }
+}
+@media (max-width: 375.98px){
+    .announcement-info p{
+        font-size: 14px;
+    }
+    .announcement-info a{
+        padding-right: 6px;
+        margin: 6px 0 0;
+        font-size: 14px;
+    }
+    #nav-bar{
+        padding: 10px;
+    }
+    .logotip{
+        height: 22px;
+    }
+    .nav-link{
+        font-size: 16px;
+    }
+    .brand{
+        padding: 0;
+    }
+    .homepage-center{
+        font-size: 30px;
+    }
+    .btn-center{
+        padding: 4px 10px;
+        font-size: 14px;
+    }
+    .soft{
+        padding: 0;
+        font-size: 18px;
+    }
+    .text-muted{
+        font-size: 30px;
+    }
+    .first-title{
+        font-size: 23px;
+    }
+    .famous{
+        width: 100%;
+    }
+    .col-lg-4{
+        text-align: center;
+        width: 100%;
+    }
+    .col-6{
+        margin: 20px;
+    }
+    .row-column{
+        max-width: 1140px;
+    }
+    .light-container{
+        margin: 0 20px;
+    }
+    .learn{
+        font-size: 14px;
+    }
+    .list-item{
+        padding: 10px;
+    }
+    .list-item a{
+        font-size: 7px;
+    }
+}
+@media (max-width: 320px) {
+    .announcement-info p{
+        font-size: 11px;
+    }
+    .announcement-info a{
+        margin: 3px;
+    }
+    .brand{
+        margin: 0;
+    }
+    .soft{
+        padding-top: 45px;
+    }
+    #testimonials{
+        padding-bottom: 25px;
+    }
+    .learn{
+        font-size: 12px;
+    }
+    .image{
+        padding: 0;
+        margin: 0;
+    }
+    .list-item{
+        padding: 0 5px;
+        margin-bottom: 8px;
+    }
+    .end{
+        font-size: 10px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
